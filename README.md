@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**TELLAI/TELLAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tellai Youcef, a Cloud DevOps developer with an interest in deployment architecture, microservices, containers, and cloud native technology.
+I encourage the use of automation wherever possible and believe that everything can be automated.
+I want to share different projects that I have carried out with back-end or full-stack technologies.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Expertise
+
+- Cloud: Microsoft Azure
+- Containerization Tools: Docker
+- Configuration Management: Ansible
+- Container Orchestration Tools: Kubernetes
+
+
+### 🌱 I’m currently learning
+
+- AZ-900
+
+### 📫 How to reach me
+
+- LinkedIn: https://www.linkedin.com/in/youcef-tellai-344aa41b8/
+- GitHub: https://github.com/TELLAI
+- Gmail: tellaiyt@gmail.com
+- Twitter: https://mobile.twitter.com/youcef_tellai
+
