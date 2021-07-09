@@ -9,8 +9,7 @@ I want to share different projects that I have carried out with back-end or full
 
 - Cloud: Microsoft Azure
 - Containerization Tools: Docker
-- Configuration Management: Ansible
-- Container Orchestration Tools: Kubernetes
+- Configuration Management: Ansible, Terraform
 
 
 ### 🌱 I’m currently learning
