@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tellai Youcef, a Cloud DevOps developer with an interest in deployment architecture, microservices, containers, and cloud native technology.
+I'm Tellai Youcef, a Fulle stack DevOps developer with an interest in deployment architecture, microservices, containers, and cloud native technology.
 I encourage the use of automation wherever possible and believe that everything can be automated.
 I want to share different projects that I have carried out with back-end or full-stack technologies.
 
@@ -10,11 +10,17 @@ I want to share different projects that I have carried out with back-end or full
 - Cloud: Microsoft Azure
 - Containerization Tools: Docker
 - Configuration Management: Ansible, Terraform
+- Back-end language : JavaScript, Python
+- Front-end Framework : React JS
+- Data base : MongoDB, Postgresql, Mysql
 
+### 🔭 Certification
+
+- AZ-900
 
 ### 🌱 I’m currently learning
 
-- AZ-900
+- AZ-204
 
 ### 📫 How to reach me
 
